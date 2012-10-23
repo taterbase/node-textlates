@@ -1,0 +1,21 @@
+{
+  "name": "textlate",
+  "description": "Text files as templates",
+  "author": {
+    "name": "George Shank",
+    "email": "taterbase@gmail.com"
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taterbase/textlate.git"
+  },
+  "homepage": "https://github.com/taterbase/textlate",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+  }
+}
+
