@@ -2,7 +2,7 @@ Hello #{name}.
 
 A standard greeting may look like this:
 
-#{greeting}
+#{greeting}, #{name}
 
 How does that look to you?
 
