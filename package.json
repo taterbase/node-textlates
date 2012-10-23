@@ -1,5 +1,5 @@
 {
-  "name": "textlate",
+  "name": "textlates",
   "description": "Text files as templates",
   "author": {
     "name": "George Shank",
@@ -9,13 +9,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/taterbase/textlate.git"
+    "url": "git://github.com/taterbase/node-textlates.git"
   },
-  "homepage": "https://github.com/taterbase/textlate",
-  "dependencies": {
-  },
+  "homepage": "https://github.com/taterbase/node-textlates",
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "*"
   }
 }
 
