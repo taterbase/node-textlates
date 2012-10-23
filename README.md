@@ -21,7 +21,13 @@ var textlates = require('textlates')
   , file = __dirname + '/file.txt'
   ;
 
-textlates.render(file, {name: 'taterbase', greeting: 'How are you today?', meal: 'breakfast'}, function(err, result){
+var data = {
+    name: 'taterbase'
+  , greeting: 'How are you today?'
+  , meal: 'breakfast'
+};
+
+textlates.render(file, data, function(err, result){
   if(err)
     return console.log(err);
 
