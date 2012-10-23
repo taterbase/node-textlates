@@ -1,8 +1,8 @@
-####Textlates
+#Textlates
 
 Textlates is a simple template library for text files in Node.JS
 
-###Usage
+##Usage
 
 Create your basic text file with the formatting you want, and wrap variables you would like to insert in the familiar string interoplation syntax #{}
 
@@ -39,5 +39,5 @@ textlates.render(file, {name: 'taterbase', greeting: 'How are you today?', meal:
 });
 ```
 
-###License
+##License
 MIT
